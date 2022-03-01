@@ -8,7 +8,14 @@ The audio notification can be disable using the checkbox.
 
 ## What does it do
  This is the overview of the screen components
+ 
   ![Screen Overview](./resources/ScrShtOverview.jpg)
+  
+## Screenshots
+| Timer with Sound on |
+| -------- | 
+| ![Timer with Sound on](./resources/ScrShtSoundOff.jpg) | 
+
 
 # Installation Guide
 
