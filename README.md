@@ -12,9 +12,9 @@ The audio notification can be disable using the checkbox.
   ![Screen Overview](./resources/ScrShtOverview.jpg)
   
 ## Screenshots of Stopwatch
-| With Sound on | With Sound off |
-| -------- |  ------- |
-| ![Timer with Sound on](./resources/ScrShtSoundOn.jpg) | ![Timer with Sound off](./resources/ScrShtSoundOff.jpg) 
+| With Sound on | With Sound off | Paused | Visible Notification |
+| -------- |  ------- | -------- |  ------- |
+| ![With Sound on](./resources/ScrShtSoundOn.jpg) | ![With Sound off](./resources/ScrShtSoundOff.jpg)  | ![Paused](./resources/ScrShtPaused.jpg)  | ![Notification](./resources/ScrShtNotification.jpg) 
 
 
 # Installation Guide
