@@ -11,10 +11,10 @@ The audio notification can be disable using the checkbox.
  
   ![Screen Overview](./resources/ScrShtOverview.jpg)
   
-## Screenshots
-| Timer with Sound on |
-| -------- | 
-| ![Timer with Sound on](./resources/ScrShtSoundOff.jpg) | 
+## Screenshots of Stopwatch
+| With Sound on | With Sound off |
+| -------- |  ------- |
+| ![Timer with Sound on](./resources/ScrShtSoundOn.jpg) | ![Timer with Sound off](./resources/ScrShtSoundOff.jpg) 
 
 
 # Installation Guide
