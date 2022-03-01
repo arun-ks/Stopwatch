@@ -1,11 +1,14 @@
 # Stopwatch
-Stopwatch which can be paused/resumed &amp; which gives notification every 2 minutes
+Stopwatch GUI which stays on top of all windows & starts as soon as application is invoked.
+The timer can  paused/resumed.
+The stopwatch will give visible & audio notification every 2 minutes (can be changed in the code). 
+The audio notification can be disable using the checkbox. 
 
 ![logo](./resources/stopwatch.ico)
 
 ## What does it do
- 
- ![Config Screen](./images/ConfigScreenSample.jpg)
+ This is the overview of the screen components
+  ![Screen Overview](./resources/ScrShtOverview.jpg)
 
 # Installation Guide
 
